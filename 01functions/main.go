@@ -10,7 +10,7 @@ import "fmt"
 	}
 */
 
-func greet() {
+func hello() {
 
 	fmt.Println("Hello World")
 }
@@ -19,5 +19,5 @@ func main() {
 
 	// invoke function
 
-	greet()
+	hello()
 }

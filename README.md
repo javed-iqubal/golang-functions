@@ -1,1 +1,1 @@
-# golang-functions
+# Golang Functions
